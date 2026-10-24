@@ -1,0 +1,25 @@
+﻿produto,categoria,preco_unitario,estoque_atual,estoque_minimo
+Iogurte,Laticínios,3.46,34,12
+Papel higiênico,Higiene,17.95,76,21
+Arroz 5 kg,Mercearia,28.71,37,12
+Feijão 1 kg,Mercearia,8.82,52,23
+Macarrão 500 g,Mercearia,5.54,75,19
+Óleo 900 ml,Mercearia,7.89,24,18
+Açúcar 1 kg,Mercearia,4.85,58,23
+Café 500 g,Mercearia,18.59,54,14
+Farinha 1 kg,Mercearia,6.3,28,23
+Shampoo,Higiene,14.93,29,14
+Leite 1 L,Laticínios,5.35,47,20
+Refrigerante 2 L,Bebidas,9.67,15,13
+"Água 1,5 L",Bebidas,3.27,49,13
+Suco 1 L,Bebidas,7.79,45,16
+Biscoito,Mercearia,4.57,64,20
+Pão de forma,Padaria,9.34,48,13
+Detergente,Limpeza,2.84,57,18
+Sabão em pó,Limpeza,13.34,35,15
+Queijo 300 g,Laticínios,13.96,45,23
+Creme dental,Higiene,5.91,36,20
+sabão coco,limpeza,2.0,45,17
+arroz teste,Alimentos,10.0,20,5
+miojo,alimentos,2.4,39,14
+teste_supabase,Mercearia,1.0,20,5
